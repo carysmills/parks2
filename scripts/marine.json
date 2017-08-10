@@ -1,0 +1,24 @@
+{
+    "marine":[{
+            "park":"Fathom Five National Marine Park of Canada",
+            "lat": 45.2819305,
+            "long": -81.7238682
+        },
+        {
+            "park":"Gwaii Haanas National Park Reserve, National Marine Conservation Area Reserve, and Haida Heritage Site",
+            "description":"Parks Canada has identified the waters around Gwaii Haanas National Park Reserve and Haida Heritage Site as a potential national marine conservation area reserve.",
+            "lat": 52.4682773,
+            "long" :-131.5604178
+        },
+        {
+            "park":"Lake Superior National Marine Conservation Area of Canada",
+            "lat":48.3641909,
+            "long":-89.0211962
+        },
+        {
+            "park":"Saguenay-St. Lawrence Marine Park",
+            "lat":48.1198556,
+            "long":-69.6716737
+        }
+    ]
+}

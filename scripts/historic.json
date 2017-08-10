@@ -1,0 +1,835 @@
+{"historic":[
+ {
+   "park": "Fort Malden National Historic Site of Canada",
+   "lat": 42.10823,
+   "long": -83.113358
+ },
+ {
+   "park": "Battle Hill National Historic Site of Canada",
+   "lat": 42.694215,
+   "long": -81.705545
+ },
+ {
+   "park": "Ridgeway Battlefield National Historic Site of Canada",
+   "lat": 42.885701,
+   "long": -79.051957
+ },
+ {
+   "park": "Battle of Cook's Mills National Historic Site of Canada",
+   "lat": 42.9979209,
+   "long": -79.17709
+ },
+ {
+   "park": "Butler's Barracks National Historic Site of Canada",
+   "lat": 43.248435,
+   "long": -79.074001
+ },
+ {
+   "park": "Fort George National Historic Site of Canada and Battlefield of Fort George National Historic Site of Canada",
+   "lat": 43.250735,
+   "long": -79.061212
+ },
+ {
+   "park": "Mississauga Point Lighthouse National Historic Site of Canada",
+   "lat": 43.261969,
+   "long": -79.076248
+ },
+ {
+   "park": "HMCS Haida National Historic Site of Canada",
+   "lat": 43.275362,
+   "long": -79.855451
+ },
+ {
+   "park": "Carrying Place of the Bay of Quinte National Historic Site of Canada",
+   "lat": 44.048686,
+   "long": -77.581817
+ },
+ {
+   "park": "Point Clark Lighthouse National Historic Site of Canada",
+   "lat": 44.07281,
+   "long": -81.75729
+ },
+ {
+   "park": "Shoal Tower National Historic Site of Canada",
+   "lat": 44.228801,
+   "long": -76.478148
+ },
+ {
+   "park": "Kingston Fortifications National Historic Site of Canada",
+   "lat": 44.230971,
+   "long": -76.459676
+ },
+ {
+   "park": "Fort Sainte Marie de Grace National Historic Site of Canada",
+   "lat": 44.288347,
+   "long": -64.351414
+ },
+ {
+   "park": "Kejimkujik National Historic Site of Canada",
+   "lat": 44.376313,
+   "long": -65.295537
+ },
+ {
+   "park": "Trent-Severn Waterway National Historic Site of Canada",
+   "lat": 44.571812,
+   "long": -78.778176
+ },
+ {
+   "park": "York Redoubt National Historic Site of Canada",
+   "lat": 44.596793,
+   "long": -63.553184
+ },
+ {
+   "park": "Prince of Wales Tower National Historic Site of Canada",
+   "lat": 44.62157,
+   "long": -63.569683
+ },
+ {
+   "park": "Georges Island National Historic Site of Canada",
+   "lat": 44.641314,
+   "long": -63.559302
+ },
+ {
+   "park": "Halifax Citadel National Historic Site of Canada",
+   "lat": 44.647443,
+   "long": -63.580613
+ },
+ {
+   "park": "D'Anville's Encampment National Historic Site of Canada",
+   "lat": 44.674691,
+   "long": -63.646597
+ },
+ {
+   "park": "Port-Royal National Historic Site of Canada",
+   "lat": 44.711382,
+   "long": -65.609685
+ },
+ {
+   "park": "Fort Wellington National Historic Site of Canada",
+   "lat": 44.713103,
+   "long": -75.508521
+ },
+ {
+   "park": "Melanson Settlement National Historic Site of Canada",
+   "lat": 44.719352,
+   "long": -65.596491
+ },
+ {
+   "park": "Saint-Louis Mission National Historic Site of Canada",
+   "lat": 44.729048,
+   "long": -79.78131
+ },
+ {
+   "park": "Charles Fort National Historic Site of Canada and Fort Anne National Historic Site of Canada",
+   "lat": 44.741748,
+   "long": -65.518562
+ },
+ {
+   "park": "Bloody Creek National Historic Site of Canada",
+   "lat": 44.822776,
+   "long": -65.310035
+ },
+ {
+   "park": "Beausoleil Island National Historic Site of Canada",
+   "lat": 44.874222,
+   "long": -79.868507
+ },
+ {
+   "park": "Fort Edward National Historic Site of Canada",
+   "lat": 44.996502,
+   "long": -64.135178
+ },
+ {
+   "park": "Inverarden House National Historic Site of Canada",
+   "lat": 45.031393,
+   "long": -74.67175
+ },
+ {
+   "park": "Fort Lennox National Historic Site of Canada",
+   "lat": 45.120987,
+   "long": -73.268056
+ },
+ {
+   "park": "Glengarry Cairn National Historic Site of Canada",
+   "lat": 45.121734,
+   "long": -74.489783
+ },
+ {
+   "park": "Sir John Johnson House National Historic Site of Canada",
+   "lat": 45.145013,
+   "long": -74.578914
+ },
+ {
+   "park": "Louis S. St. Laurent National Historic Site of Canada",
+   "lat": 45.242389,
+   "long": -71.827026
+ },
+ {
+   "park": "Carleton Martello Tower National Historic Site of Canada",
+   "lat": 45.252063,
+   "long": -66.076583
+ },
+ {
+   "park": "Coteau-du-Lac National Historic Site of Canada",
+   "lat": 45.287435,
+   "long": -74.177751
+ },
+ {
+   "park": "Canso Islands National Historic Site of Canada",
+   "lat": 45.346653,
+   "long": -60.970487
+ },
+ {
+   "park": "Rideau Canal National Historic Site of Canada (Ottawa)",
+   "lat": 45.404467,
+   "long": -75.680992
+ },
+ {
+   "park": "Sainte-Anne-de-Bellevue Canal National Historic Site of Canada",
+   "lat": 45.404591,
+   "long": -73.955921
+ },
+ {
+   "park": "Laurier House National Historic Site of Canada",
+   "lat": 45.427733,
+   "long": -75.678007
+ },
+ {
+   "park": "The Fur Trade at Lachine National Historic Site of Canada",
+   "lat": 45.431429,
+   "long": -73.675812
+ },
+ {
+   "park": "Chambly Canal National Historic Site of Canada",
+   "lat": 45.446883,
+   "long": -73.283323
+ },
+ {
+   "park": "Fort Ste. Thérèse National Historic Site of Canada",
+   "lat": 45.449494,
+   "long": -73.276912
+ },
+ {
+   "park": "Louis-Joseph Papineau National Historic Site of Canada",
+   "lat": 45.509991,
+   "long": -73.552299
+ },
+ {
+   "park": "Sir George-Étienne Cartier National Historic Site of Canada",
+   "lat": 45.511192,
+   "long": -73.551741
+ },
+ {
+   "park": "Carillon Barracks National Historic Site of Canada",
+   "lat": 45.564978,
+   "long": -74.371897
+ },
+ {
+   "park": "Manoir Papineau National Historic Site of Canada",
+   "lat": 45.64594,
+   "long": -74.945893
+ },
+ {
+   "park": "St. Peters National Historic Site of Canada / St. Peters Canal National Historic Site of Canada",
+   "lat": 45.652382,
+   "long": -60.870755
+ },
+ {
+   "park": "Fort Lawrence National Historic Site of Canada",
+   "lat": 45.847599,
+   "long": -64.26187
+ },
+ {
+   "park": "Beaubassin National Historic Site of Canada",
+   "lat": 45.848674,
+   "long": -64.261469
+ },
+ {
+   "park": "Sir Wilfrid Laurier National Historic Site of Canada",
+   "lat": 45.8525,
+   "long": -73.757689
+ },
+ {
+   "park": "Fort Beauséjour – Fort Cumberland National Historic Site of Canada",
+   "lat": 45.863618,
+   "long": -64.292126
+ },
+ {
+   "park": "Fortress of Louisbourg National Historic Site of Canada and Royal Battery National Historic Site of Canada",
+   "lat": 45.89219,
+   "long": -59.985552
+ },
+ {
+   "park": "Wolfe's Landing National Historic Site of Canada, Kennington Cove",
+   "lat": 45.878761, 
+   "long": -60.057048
+ },
+ {
+   "park": "La Coupe Dry Dock National Historic Site of Canada",
+   "lat": 45.915595,
+   "long": -64.266905
+ },
+ {
+   "park": "Monument-Lefebvre National Historic Site of Canada",
+   "lat": 45.97925,
+   "long": -64.567103
+ },
+ {
+   "park": "Fort Gaspareaux National Historic Site of Canada",
+   "lat": 46.043413,
+   "long": -64.07152
+ },
+ {
+   "park": "Alexander Graham Bell National Historic Site of Canada",
+   "lat": 46.10343,
+   "long": -60.74645
+ },
+ {
+   "park": "Port-la-Joye–Fort Amherst National Historic Site of Canada",
+   "lat": 46.195451,
+   "long": -63.135507
+ },
+ {
+   "park": "Province House National Historic Site of Canada",
+   "lat": 46.234986,
+   "long": -63.126122
+ },
+ {
+   "park": "Ardgowan National Historic Site of Canada",
+   "lat": 46.252011,
+   "long": -63.126272
+ },
+ {
+   "park": "Forges du Saint-Maurice National Historic Site of Canada",
+   "lat": 46.39849,
+   "long": -72.657918
+ },
+ {
+   "park": "Sault Ste. Marie Canal National Historic Site of Canada",
+   "lat": 46.513007,
+   "long": -84.349479
+ },
+ {
+   "park": "57-63 St. Louis Street National Historic Site of Canada",
+   "lat": 46.810946,
+   "long": -71.208419
+ },
+ {
+   "park": "Saint-Louis Forts and Châteaux National Historic Site of Canada",
+   "lat": 46.811915,
+   "long": -71.205191
+ },
+ {
+   "park": "Fortifications of Québec National Historic Site of Canada",
+   "lat": 46.813730,
+   "long":-71.213462
+ },
+ {
+   "park": "Québec Garrison Club National Historic Site of Canada",
+   "lat": 46.809164, 
+   "long": -71.210037
+ },
+ {
+   "park": "Montmorency Park National Historic Site of Canada",
+   "lat": 46.813485,
+   "long": -71.204019
+ },
+ {
+   "park": "Boishébert National Historic Site of Canada",
+   "lat": 46.974516,
+   "long": -65.569615
+ },
+ {
+   "park": "Castle Hill National Historic Site of Canada",
+   "lat": 47.25098,
+   "long": -53.97154
+ },
+ {
+   "park": "Fort Témiscamingue National Historic Site of Canada",
+   "lat": 47.289018,
+   "long": -79.46086
+ },
+ {
+   "park": "Hawthorne Cottage National Historic Site of Canada",
+   "lat": 47.535158,
+   "long": -53.209958,
+   "description": ""
+ },
+ {
+   "park": "Signal Hill National Historic Site of Canada",
+   "lat": 47.570063,
+   "long": -52.681893
+ },
+ {
+   "park": "Battle of the Restigouche National Historic Site of Canada",
+   "lat": 48.012948,
+   "long": -66.735996
+ },
+ {
+   "park": "Fort Rodd Hill and Fisgard Lighthouse National Historic Sites",
+   "lat": 48.430495,
+   "long": -123.447650
+ },
+ {
+   "park": "Pointe-au-Père Lighthouse National Historic Site of Canada",
+   "lat": 48.517445,
+   "long": -68.468968
+ },
+ {
+   "park": "Ryan Premises National Historic Site of Canada",
+   "lat": 48.647749,
+   "long": -53.112995
+ },
+ {
+   "park": "First Oil Well in Western Canada National Historic Site",
+   "lat": 49.071043,
+   "long": -113.986867
+ },
+ {
+   "park": "Gulf of Georgia Cannery National Historic Site of Canada",
+   "lat": 49.124996,
+   "long": -123.186704
+ },
+ {
+   "park": "Fort Langley National Historic Site of Canada",
+   "lat": 49.168541,
+   "long": -122.584966
+ },
+ {
+   "park": "Stanley Park National Historic Site of Canada",
+   "lat": 49.301705,
+   "long": -123.1417
+ },
+ {
+   "park": "The Forks National Historic Site of Canada",
+   "lat": 49.888401,
+   "long": -97.127464
+    },
+ {
+   "park": "St. Andrew's Rectory National Historic Site of Canada",
+   "lat": 50.066128,
+   "long": -96.977047
+ },
+ {
+   "park": "Lower Fort Garry National Historic Site of Canada",
+   "lat": 50.110565,
+   "long": -96.9337
+ },
+ {
+   "park": "Bar U Ranch National Historic Site of Canada",
+   "lat": 50.4195864,
+   "long": -114.245839
+ },
+ {
+   "park": "Port au Choix National Historic Site of Canada",
+   "lat": 50.69741,
+   "long": -57.38191
+ },
+ {
+   "park": "Sulphur Mountain Cosmic Ray Station National Historic Site of Canada",
+   "lat": 51.147152,
+   "long": -115.578918
+ },
+ {
+   "park": "Abbot Pass Refuge Cabin National Historic Site of Canada",
+   "lat": 51.1683046,
+   "long": -115.610137
+ },
+ {
+   "park": "Banff Park Museum National Historic Site of Canada",
+   "lat": 51.1714367,
+   "long": -115.59018
+ },
+ {
+   "park": "Kicking Horse Pass National Historic Site of Canada",
+   "lat": 51.45,
+   "long": -116.283333
+ },
+ {
+   "park": "Twin Falls Tea House National Historic Site of Canada",
+   "lat": 51.466667,
+   "long": -116.583333
+ },
+ {
+   "park": "L'Anse aux Meadows National Historic Site of Canada",
+   "lat": 51.595693,
+   "long": -55.533414
+ },
+ {
+   "park": "Red Bay National Historic Site of Canada",
+   "lat": 51.730875,
+   "long": -56.428328
+ },
+ {
+   "park": "Fort Livingstone National Historic Site of Canada",
+   "lat": 51.903075,
+   "long": -101.957460
+ },
+ {
+   "park": "Fort Pelly National Historic Site of Canada",
+   "lat": 51.902843, 
+   "long": -101.957686
+ },
+ {
+   "park": "Athabasca Pass National Historic Site of Canada",
+   "lat": 52.383333,
+   "long": -118.2
+ },
+ {
+   "park": "Nan Sdins National Historic Site of Canada",
+   "lat": 52.468274,
+   "long": -131.558229
+ },
+ {
+   "park": "Fort Battleford National Historic Site of Canada",
+   "lat": 52.725466,
+   "long": -108.297879
+    },
+ {
+   "park": "Batoche National Historic Site of Canada Métis village",
+   "lat": 52.754028,
+   "long": -106.110488
+    },
+ {
+   "park": "Jasper House National Historic Site of Canada",
+   "lat": 53.145941, 
+   "long": -117.977239
+ },
+ {
+   "park": "Yellowhead Pass National Historic Site of Canada",
+   "lat": 52.864512, 
+   "long": -118.231415
+ },
+ {
+   "park": "Jasper Park Information Centre National Historic Site of Canada",
+   "lat": 52.877296,
+   "long": -118.080733
+ },
+ {
+   "park": "York Factory National Historic Site of Canada",
+   "lat": 57.002768,
+   "long": -92.304744
+ },
+ {
+   "park": "Prince of Wales Fort National Historic Site of Canada",
+   "lat": 58.797175,
+   "long": -94.213122
+ },
+ {
+   "park": "Chilkoot Trail National Historic Site of Canada",
+   "lat": 59.696477,
+   "long": -135.236603
+ },
+ {
+   "park": "S.S. Keno National Historic Site of Canada",
+   "lat": 64.063111,
+   "long": -139.434768
+    },
+ {
+   "park": "Saoyú-Ehdacho National Historic Site of Canada",
+   "lat": 66.101508,
+   "long": -122.150774
+ },
+ {
+   "park": "Battle of the Châteauguay National Historic Site of Canada",
+   "lat": 45.1591756,
+   "long": -73.9304121
+ },
+ {
+   "park": "Battle of the Windmill National Historic Site of Canada",
+   "lat": 44.7210978,
+   "long": -75.4893427
+ },
+ {
+   "park": "Battle of Tourond's Coulee / Fish Creek National Historic Site of Canada",
+   "lat": 52.5515537,
+   "long": -106.1636343
+ },
+ {
+   "park": "Beaubears Island Shipbuilding National Historic Site of Canada",
+   "lat": 46.9729973,
+   "long": -65.5772271
+ },
+ {
+   "park": "Bellevue House National Historic Site of Canada",
+   "lat": 44.2230348,
+   "long": -76.5063357
+ },
+ {
+   "park": "Bethune Memorial House National Historic Site of Canada",
+   "lat": 44.9208308,
+   "long": -79.3788157
+ },
+ {
+   "park": "Bois Blanc Island Lighthouse and Blockhouse National Historic Site of Canada",
+   "lat": 42.087338,
+   "long": -83.1221627
+ },
+ {
+   "park": "Cape Spear Lighthouse National Historic Site of Canada",
+   "lat": 47.5183105,
+   "long": -52.6328392
+ },
+ {
+   "park": "Carillon Canal National Historic Site of Canada",
+   "lat": 45.5666034,
+   "long": -74.3820184
+ },
+ {
+   "park": "Cartier-Brébeuf National Historic Site of Canada",
+   "lat": 46.8252667,
+   "long": -71.2417621
+ },
+ {
+   "park": "Cave and Basin National Historic Site of Canada",
+   "lat": 51.1690903,
+   "long": -115.5933862
+ },
+ {
+   "park": "Cypress Hills Massacre National Historic Site of Canada",
+   "lat": 49.545385, 
+   "long": -109.876405
+ },
+ {
+   "park": "Dalvay-by-the-Sea National Historic Site of Canada",
+   "lat": 46.415857,
+   "long": -63.0757325
+ },
+ {
+   "park": "Dawson Historical Complex National Historic Site of Canada",
+   "lat": 64.0596742,
+   "long": -139.4387984
+    },
+ {
+   "park": "Dredge No. 4 National Historic Site of Canada",
+   "lat": 63.9439153,
+   "long": -139.3384427
+ },
+ {
+   "park": "Former Territorial Court House National Historic Site of Canada",
+   "lat": 64.0562413,
+   "long": -139.4432497
+ },
+ {
+   "park": "Fort Chambly National Historic Site of Canada",
+   "lat": 45.4481922,
+   "long": -73.282306
+ },
+ {
+   "park": "Fort Espérance National Historic Site of Canada",
+   "lat": 50.4920504,
+   "long": -101.5797337
+ },
+ {
+   "park": "Fort Henry National Historic Site of Canada",
+   "lat": 44.2309438,
+   "long": -76.4619332
+ },
+ {
+   "park": "Fort McNab National Historic Site of Canada",
+   "lat": 44.617518,
+   "long": -63.574658
+ },
+ {
+   "park": "Fort Mississauga National Historic Site of Canada",
+   "lat": 43.2561747,
+   "long": -79.0734979
+ },
+ {
+   "park": "Fort St. James National Historic Site of Canada",
+   "lat": 54.438937,
+   "long": -124.2570324
+ },
+ {
+   "park": "Fort St. Joseph National Historic Site of Canada",
+   "lat": 46.063186,
+   "long": -83.9487109
+ },
+ {
+   "park": "Fort Walsh National Historic Site of Canada",
+   "lat": 49.5733345,
+   "long": -109.8837117
+ },
+ {
+   "park": "Forts Rouge, Garry and Gibraltar National Historic Site of Canada",
+   "lat": 49.8934997,
+   "long": -97.1390814
+ },
+ {
+   "park": "Frenchman Butte National Historic Site of Canada",
+   "lat": 53.6278932,
+   "long": -109.5760897
+ },
+ {
+   "park": "Frog Lake National Historic Site of Canada",
+   "lat": 53.8311401, 
+   "long": -110.3607187
+ },
+ {
+   "park": "Gitwangak Battle Hill National Historic Site of Canada",
+   "lat": 55.120493,
+   "long": -128.015153
+ },
+ {
+   "park": "Grand-Pré National Historic Site of Canada",
+   "lat": 45.10861,
+   "long": -64.3123257
+ },
+ {
+   "park": "Grassy Island Fort National Historic Site of Canada",
+   "lat": 45.3399656,
+   "long": -60.9859588
+ },
+ {
+   "park": "Grosse Île and the Irish Memorial National Historic Site of Canada",
+   "lat": 47.0284541,
+   "long": -70.6735575
+ },
+ {
+   "park": "Hopedale Mission National Historic Site of Canada",
+   "lat": 55.461482,
+   "long": -60.2191337
+ },
+ {
+   "park": "Howse Pass National Historic Site of Canada",
+   "lat": 51.814869,
+   "long": -116.772308
+ },
+ {
+   "park": "kitjigattalik - Ramah Chert Quarries National Historic Site of Canada",
+   "lat": 59.2069009,
+   "long": -64.1523099
+ },
+ {
+   "park": "Kootenae House National Historic Site of Canada",
+   "lat": 50.5264934,
+   "long": -116.0477797,
+   "description": ""
+ },
+ {
+   "park": "L.M. Montgomery's Cavendish National Historic Site of Canada",
+   "lat": 46.4904634,
+   "long": -63.3761323
+ },
+ {
+   "park": "Lachine Canal National Historic Site of Canada",
+   "lat": 45.4648603,
+   "long": -73.6489552
+ },
+ {
+   "park": "Lévis Forts National Historic Site of Canada",
+   "lat": 46.8145737,
+   "long": -71.1604643
+ },
+ {
+   "park": "Linear Mounds National Historic Site of Canada",
+   "lat": 49.1166,
+   "long": -101.0209
+ },
+ {
+   "park": "Maillou House National Historic Site of Canada",
+   "lat": 46.8134177,
+   "long": -71.2156857
+ },
+ {
+   "park": "Maligne Lake Chalet and Guest House National Historic Site of Canada",
+   "lat": 52.8733862,
+   "long": -117.9564826
+ },
+ {
+   "park": "Marconi National Historic Site of Canada",
+   "lat": 46.211182,
+   "long": -59.9546885
+ },
+ {
+   "park": "Merrickville Blockhouse National Historic Site of Canada",
+   "lat": 44.9165278,
+   "long": -75.8395137
+ },
+ {
+   "park": "Mnjikaning Fish Weirs National Historic Site of Canada",
+   "lat": 44.6035499,
+   "long": -79.370588
+ },
+ {
+   "park": "Motherwell Homestead National Historic Site of Canada",
+   "lat": 50.7319444,
+   "long": -103.4394246
+    },
+ {
+   "park": "Murney Tower National Historic Site of Canada",
+   "lat": 44.2223676,
+   "long": -76.492674
+ },
+ {
+   "park": "Navy Island National Historic Site of Canada",
+   "lat": 43.0555708,
+   "long": -79.0217769
+ },
+ {
+   "park": "Peterborough Lift Lock National Historic Site of Canada",
+   "lat": 44.3069635,
+   "long": -78.3036724
+ },
+ {
+   "park": "Queenston Heights National Historic Site of Canada",
+   "lat": 43.1597169,
+   "long": -79.0563747
+ },
+ {
+   "park": "Riding Mountain Park East Gate Registration Complex National Historic Site of Canada",
+   "lat": 50.6832744,
+   "long": -99.5574827
+ },
+ {
+   "park": "Riel House National Historic Site of Canada",
+   "lat": 49.8192354,
+   "long": -97.1384307
+ },
+ {
+   "park": "Rocky Mountain House National Historic Site of Canada",
+   "lat": 52.3617243,
+   "long": -114.9738561
+ },
+ {
+   "park": "Rogers Pass National Historic Site of Canada",
+   "lat": 51.301808,
+   "long": -117.520982
+ },
+ {
+   "park": "S.S. Klondike National Historic Site of Canada",
+   "lat": 60.7133976,
+   "long": -135.0505887
+ },
+ {
+   "park": "Saint-Ours Canal National Historic Site of Canada",
+   "lat": 45.8644727,
+   "long": -73.1493033
+ },
+ {
+   "park": "Skoki Ski Lodge National Historic Site of Canada",
+   "lat": 51.3461259,
+   "long": -116.1517293
+ },
+ {
+   "park": "Southwold Earthworks National Historic Site of Canada",
+   "lat": 42.6742939,
+   "long": -81.3625227
+ },
+ {
+   "park": "St. Andrews Blockhouse National Historic Site of Canada",
+   "lat": 45.0770512,
+   "long": -67.0640109
+ },
+ {
+   "park": "Woodside National Historic Site of Canada",
+   "lat": 43.4636159,
+   "long": -80.4830347
+ },
+ {
+   "park": "Wrecks of HMS Erebus and HMS Terror National Historic Site of Canada",
+   "lat": 69.4650718,
+   "long": -99.7152044
+ }
+]
+}

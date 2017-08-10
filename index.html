@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>parksfinder 2.0</title>
+
+	<style>
+		
+
+		.flowctrl .social-media-share ul, .social-media-share.ng-scope {
+		max-width: none !important;
+		font-family: 'Slabo 27px', serif;
+		font-size: 25px;
+		}
+
+		.flowctrl .social-media-share ul a {
+		color: #1c753f;
+		}
+
+
+		.flowctrl .social-media-share li i {
+		left: -20px !important;
+		}
+
+		body.headerPadding {
+		padding-bottom: 0 !important;
+		}
+
+		@-webkit-keyframes FADE {
+		  0%   { opacity: 0; }
+		  100% { opacity: 1; }
+		}
+		@-moz-keyframes FADE {
+		  0%   { opacity: 0; }
+		  100% { opacity: 1; }
+		}
+		@-o-keyframes FADE {
+		  0%   { opacity: 0; }
+		  100% { opacity: 1; }
+		}
+		@keyframes FADE {
+		  0%   { opacity: 0; }
+		  100% { opacity: 1; }
+		}
+
+		@-webkit-keyframes SPIN {
+		  0%   { transform: rotate(0deg);}
+		  100% { transform: rotate(360deg);}
+		}
+		@-moz-keyframes SPIN {
+		  0%   { transform: rotate(0deg);}
+		  100% { transform: rotate(360deg);}
+		}
+		@-o-keyframes SPIN{
+		  0%   { transform: rotate(0deg);}
+		  100% { transform: rotate(360deg);}
+		}
+		@keyframes SPIN {
+		  0%   { transform: rotate(0deg);}
+		  100% { transform: rotate(360deg);}
+		}
+
+
+		body {
+		color: #1c753f;
+		font-family: 'Lato', sans-serif;
+		font-size: 20px;
+		}
+
+		.current-card.ng-binding {
+		display: none !important;
+		}
+
+		.flowctrl h1, #final {
+		 text-align: center;
+		font-family: 'Slabo 27px', serif;
+		margin: 10px 0 0 0;
+		padding: 0;
+		font-size: 50px;
+		color: #1c753f;
+		}
+
+		#final {
+		font-size: 30px;
+		}
+
+		#address {
+		    width: 150px;
+		    display: block;
+		    margin: 0 auto;
+		    border: 2px solid #1c753f;
+		    text-align: center;
+		    padding: 5px;
+		    cursor: pointer;
+		}
+
+		input#postal {
+		   border: none;
+		   border: 2px solid;
+		    width: calc(80% - 5px);
+		    float: left;
+		    margin: 0 5px 0 0;
+		    padding: 5px;
+		    border-color: #1c753f;
+		    max-width: calc(100% - 85px);
+		}
+
+		#address {
+		    width: 20%;
+		    float: left;
+		    transition: background 0.5s;
+		    min-width: 80px;
+		}
+
+		#address:hover {
+		    background: #fec049;
+		}
+
+		#start p {
+		    margin: 35px 0;
+		}
+
+		img.blockicon {
+		    width: 150px;
+		    float: left;
+		    margin: 25px 10px 20px 0;
+		}
+
+		#right {
+		    float: right;   
+		    margin: 0 0 0 10px;
+		}
+
+		#marine p, #historic p {
+		    margin: 35px 0 0 0;
+		}
+
+		#leaf {
+		 -webkit-animation: FADE 3s; /* Safari 4+ */
+		  -moz-animation:   FADE 3s; /* Fx 5+ */
+		  -o-animation:     FADE 3s; /* Opera 12+ */
+		  animation:        FADE 3s; /* IE 10+, Fx 29+ */
+		}
+
+		.blockicon {
+		 -webkit-animation: SPIN 1s; /* Safari 4+ */
+		  -moz-animation:   SPIN 1s; /* Fx 5+ */
+		  -o-animation:     SPIN 1s; /* Opera 12+ */
+		  animation:        SPIN 1s; /* IE 10+, Fx 29+ */
+		}
+
+		#social {
+		text-align: center;
+		display: block;
+		margin: 50px auto;
+		margin-bottom: 0;
+		}
+
+		iframe#twitter-widget-0 {
+		    display: block;
+		    margin: 0 auto;
+		}
+
+		#detailContainer {
+		    font-size: 14px;
+		    margin: 100px 0 0 0;
+		}
+
+		#again {
+		float: left;
+		}
+
+		#pv {
+		float: right;
+		}
+
+		.transparancy {
+		display: none !important;
+		}
+
+		#parks p, #historic p, #marine p {
+		margin: 60px 0 0 0;
+		}
+
+
+		@media (max-width: 400px) {
+		#again, #pv {
+		float: none;
+		text-align: center;
+		}
+
+		#detailContainer {
+		margin: 50px 0 0 0;
+		}
+
+		img.blockicon {
+		width: 70px;
+		}
+
+		#parks p, #historic p, #marine p {
+		width: calc(100% - 80px);
+		float: right;
+		margin: 20px 0 0 0;
+		}
+
+		#historic p {
+		float: left;
+		}
+
+		#historic, #marine {
+		margin: 50px 0 0 0;
+		}
+
+		#right {
+		    margin: 25px 10px 20px 0;
+		}
+
+		}
+
+		img#next-btn-163 {
+		display: none;
+		}
+
+		#next-btn-203 {
+		display: none;
+		}
+
+
+	</style>
+</head>
+<body>
+
+	<img id="leaf" class="leaf" style="display: block; margin-left: auto; margin-right: auto; width: 290px; max-width: 100%;" src="http://www.flow.publivate.ca/images/pf.png">
+
+	<input type="text" id="postal" placeholder="Enter address or postal code">
+	<button id="address"></button>
+
+	<div id="parks"></div>
+	<div id="historic"></div>
+	<div id="marine"></div>
+
+	<script
+	src="http://code.jquery.com/jquery-3.2.1.min.js"
+	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+	crossorigin="anonymous"></script>
+	<script src="scripts/main.js"></script>
+</body>
+</html>

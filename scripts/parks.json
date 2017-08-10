@@ -1,0 +1,237 @@
+{"parks":[
+ {
+   "park": "Aulavik National Park of Canada",
+   "lat": 73.601949,
+   "long": -119.40424
+ },
+ {
+   "park": "Auyuittuq National Park of Canada",
+   "lat": 67.489466,
+   "long": -66.055959
+ },
+ {
+   "park": "Banff National Park of Canada",
+   "lat": 51.496846,
+   "long": -115.928056
+ },
+ {
+   "park": "Bruce Peninsula National Park of Canada",
+   "lat": 45.216359,
+   "long": -81.503988
+ },
+ {
+   "park": "Cape Breton Highlands National Park of Canada",
+   "lat": 46.738285,
+   "long": -60.650977
+ },
+ {
+   "park": "Elk Island National Park of Canada",
+   "lat": 53.583007,
+   "long": -112.836489
+ },
+ {
+   "park": "Forillon National Park of Canada",
+   "lat": 48.83185,
+   "long": -64.250458
+ },
+ {
+   "park": "Fundy National Park of Canada",
+   "lat": 45.613777,
+   "long": -65.031631
+ },
+ {
+   "park": "Georgian Bay Islands National Park of Canada",
+   "lat": 44.874222,
+   "long": -79.868507
+ },
+ {
+   "park": "Glacier National Park of Canada",
+   "lat": 51.335289,
+   "long": -117.52976
+ },
+ {
+   "park": "Grasslands National Park of Canada",
+   "lat": 49.125097,
+   "long": -107.421332
+ },
+ {
+   "park": "Gros Morne National Park of Canada",
+   "lat": 49.652015,
+   "long": -57.755758
+ },
+ {
+   "park": "Gulf Islands National Park Reserve of Canada",
+   "lat": 48.767104,
+   "long": -123.277073
+ },
+ {
+   "park": "Gwaii Haanas National Park Reserve",
+   "lat": 52.468274,
+   "long": -131.558229
+ },
+ {
+   "park": "Ivvavik National Park of Canada",
+   "lat": 69.094063,
+   "long": -139.833984
+ },
+ {
+   "park": "Jasper National Park of Canada",
+   "lat": 52.873383,
+   "long": -117.954294
+ },
+ {
+   "park": "Kejimkujik National Park of Canada",
+   "lat": 44.376313,
+   "long": -65.295537
+ },
+ {
+   "park": "Kluane National Park and Reserve of Canada",
+   "lat": 60.75,
+   "long": -139.5
+ },
+ {
+   "park": "Kootenay National Park of Canada",
+   "lat": 50.976937,
+   "long": -115.95921
+ },
+ {
+   "park": "Kouchibouguac National Park of Canada",
+   "lat": 46.796231,
+   "long": -64.964168
+ },
+ {
+   "park": "La Mauricie National Park of Canada",
+   "lat": 46.833921,
+   "long": -72.999228
+ },
+ {
+   "park": "Akami–Uapishku - KakKasuak - Mealy Mountains National Park Reserve of Canada",
+   "lat": 53.789908,
+   "long": -58.534248
+ },
+ {
+   "park": "Mingan Archipelago National Park Reserve, 1340 Rue de la Digue, Havre-Saint-Pierre, QC G0G 1P0",
+   "lat": 50.225861,
+   "long": -63.553225
+ },
+ {
+   "park": "Mount Revelstoke National Park of Canada",
+   "lat": 51.083387,
+   "long": -118.000043
+ },
+ {
+   "park": "Nááts'ihch'oh National Park Reserve",
+   "lat": 62.6706,
+   "long": -128.5439
+ },
+ {
+   "park": "Nahanni National Park Reserve of Canada",
+   "lat": 61.500697,
+   "long": -125.50047
+ },
+ {
+   "park": "Pacific Rim National Park Reserve of Canada",
+   "lat": 48.791931,
+   "long": -125.156359
+ },
+ {
+   "park": "Point Pelee National Park of Canada",
+   "lat": 41.962772,
+   "long": -82.51844
+ },
+ {
+   "park": "Prince Albert National Park of Canada",
+   "lat": 53.92569,
+   "long": -106.388886
+ },
+ {
+   "park": "Prince Edward Island National Park of Canada",
+   "lat": 46.415853,
+   "long": -63.073544
+ },
+ {
+   "park": "Pukaskwa National Park of Canada",
+   "lat": 48.245678,
+   "long": -85.887781
+ },
+ {
+   "park": "Qausuittuq National Park of Canada",
+   "lat": 76.323819,
+   "long": -101.709422
+ },
+ {
+   "park": "Quttinirpaaq National Park of Canada",
+   "lat": 81.432526,
+   "long": -71.346425
+ },
+ {
+   "park": "Riding Mountain National Park of Canada",
+   "lat": 50.855296,
+   "long": -100.221954
+ },
+ {
+   "park": "Rouge National Urban Park",
+   "lat": 43.93768,
+   "long": -79.223147
+ },
+ {
+   "park": "Sable Island National Park Reserve of Canada",
+   "lat": 43.930438,
+   "long": -59.913175
+ },
+ {
+   "park": "Sirmilik National Park of Canada",
+   "lat": 72.990606,
+   "long": -81.13732
+ },
+ {
+   "park": "Terra Nova National Park of Canada",
+   "lat": 48.511346,
+   "long": -53.959825
+ },
+ {
+   "park": "Thousand Islands National Park of Canada",
+   "lat": 44.342578,
+   "long": -76.050932
+ },
+ {
+   "park": "Torngat Mountains National Park of Canada",
+   "lat": 59.206898,
+   "long": -64.150121
+ },
+ {
+   "park": "Tuktut Nogait National Park of Canada",
+   "lat": 68.818686,
+   "long": -121.749249
+ },
+ {
+   "park": "Ukkusiksalik National Park of Canada",
+   "lat": 66.0432098,
+   "long": -88.985794
+ },
+ {
+   "park": "Vuntut National Park of Canada",
+   "lat": 68.384944,
+   "long": -139.858033
+ },
+ {
+   "park": "Wapusk National Park of Canada",
+   "lat": 57.786105,
+   "long": -93.158038
+ },
+ {
+   "park": "Waterton Lakes National Park of Canada",
+   "lat": 49.083333,
+   "long": -113.916667
+ },
+ {
+   "park": "Wood Buffalo National Park of Canada",
+   "lat": 59.439503,
+   "long": -112.876402
+ },
+ {
+   "park": "Yoho National Park of Canada",
+   "lat": 51.466667,
+   "long": -116.583333
+ }
+]}
