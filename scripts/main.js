@@ -47,7 +47,7 @@ parks.postal = $("#postal").val();
   parks.getData();
 });
 
-//reset all the results
+//reset all the results, if allowing user to resubmit request
 parks.clear = function(){
 	parks.locations = "";
 	parks.closest = "";
@@ -77,7 +77,7 @@ parks.display = function(){
 $("#final").html("From " + parks.check.results["0"].formatted_address + ", the closest... ");
 };
 
-//the function to calculate distances between points
+//the function to calculate distances between points using as the crow flies/haversine formula
 function getDistanceFromLatLonInKm(lat1,lon1,lat2,lon2) {
   var R = 6371; // Radius of the earth in km
   var dLat = deg2rad(lat2-lat1);  // deg2rad below
@@ -96,6 +96,7 @@ function deg2rad(deg) {
   return deg * (Math.PI/180)
 }
 
+//based on the results, determine whether to move forward with the parksfinder or tell user to enter proper addres
 parks.checkResults = function(){
 	if (parks.check.status != "OK") {
 	$("#postalc").html("Please enter a valid address.");
@@ -109,7 +110,10 @@ parks.checkResults = function(){
 	}
 };
 
-//check for parks that are within reach, find the closest one
+//check for parks that are within reach, find the closest one.
+//first generate an array of how far each park, historical site and MCA are. 
+// Then find the smallest one and determine which value that matches
+
 parks.getResults = function(){
 	parks.locations = parks.check.results[0].geometry.location;
 	parks.latitude = parks.locations.lat;
